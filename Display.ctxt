@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Display
+comment1.params=
+comment1.target=Display()
+comment10.params=row\ column
+comment10.target=boolean\ isCellEditable(int,\ int)
+comment11.params=width\ height\ message
+comment11.target=javax.swing.JOptionPane\ setupJOptionPane(int,\ int,\ java.lang.String)
+comment11.text=\r\n\ Attempting\ to\ add\ two\ objects\ onto\ a\ JDialog.\r\n\ I\ setup\ the\ basic\ JOptionPane,\ but\ did\ not\ have\ enough\ time\ to\ complete.\r\n\ This\ not\ for\ use\ now,\ but\ will\ probably\ be\ used\ for\ other\ projects.\r\n
+comment2.params=message
+comment2.target=void\ showMessage(java.lang.String)
+comment3.params=message\ title
+comment3.target=void\ showMessage(java.lang.String,\ java.lang.String)
+comment4.params=message
+comment4.target=void\ showMessage(java.lang.String[])
+comment5.params=message\ title
+comment5.target=int\ confirmYesNo(java.lang.String,\ java.lang.String)
+comment6.params=prompt
+comment6.target=java.lang.String\ input(java.lang.String)
+comment7.params=title\ headers\ data
+comment7.target=void\ showTable(java.lang.String,\ java.lang.String[],\ java.lang.String[][])
+comment8.params=width\ height\ title\ tableHeader
+comment8.target=javax.swing.JDialog\ setupDialog(int,\ int,\ java.lang.String,\ javax.swing.table.JTableHeader)
+comment9.params=x\ y\ width\ height\ data\ headers
+comment9.target=javax.swing.JTable\ setupTable(int,\ int,\ int,\ int,\ java.lang.String[][],\ java.lang.String[])
+numComments=12
